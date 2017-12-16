@@ -9,6 +9,7 @@ Questions by No.
 | [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.java) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.java) |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/118.%20Pascal's%20Triangle.java) |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/129.%20Sum%20Root%20to%20Leaf%20Numbers.java) |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/190.%20Reverse%20Bits.java) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/226.%20Invert%20Binary%20Tree.java) |
@@ -24,6 +25,11 @@ Questions by No.
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/738.%20Monotone%20Increasing%20Digits.java) |
 
+Array
+====
+|  Question  | Difficulty | Code |
+| ---------- | ---------- | ---- |
+| [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/118.%20Pascal's%20Triangle.java) |
 
 Tree 
 ====
