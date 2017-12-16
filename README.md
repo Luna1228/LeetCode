@@ -5,6 +5,7 @@ Questions by No.
 ====
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
+| [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.java) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.java) |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/129.%20Sum%20Root%20to%20Leaf%20Numbers.java) |
@@ -85,3 +86,8 @@ Stack
 | ---------- | ---------- | ---- |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/503.%20Next%20Greater%20Element%20II.java) |
 
+Backtracking
+====
+|  Question  | Difficulty | Code |
+| ---------- | ---------- | ---- |
+| [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
