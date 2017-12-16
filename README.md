@@ -17,6 +17,7 @@ Questions by No.
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/461.%20Hamming%20Distance.java) |
 | [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/477.%20Total%20Hamming%20Distance.java) |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/503.%20Next%20Greater%20Element%20II.java) |
+| [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/738.%20Monotone%20Increasing%20Digits.java) |
 
 
@@ -61,12 +62,14 @@ Hashing
 |    Question  | Difficulty | Code |
 | ------------ | ---------- | ---- |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.java) |
+| [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 
 Sort
 ====
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/296.%20Best%20Meeting%20Point.java) |
+| [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 
 Greedy
 ====
