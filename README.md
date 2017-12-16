@@ -5,6 +5,7 @@ Questions by No.
 ====
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
+| [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/47.%20Permutations%20II.java) |
 | [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.java) |
 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.java) |
@@ -90,4 +91,5 @@ Backtracking
 ====
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
+| [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/47.%20Permutations%20II.java) |
 | [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
