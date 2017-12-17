@@ -23,6 +23,7 @@ Questions by No.
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/461.%20Hamming%20Distance.java) |
 | [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/477.%20Total%20Hamming%20Distance.java) |
 | [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/503.%20Next%20Greater%20Element%20II.java) |
+| [505. The Maze II](https://leetcode.com/problems/the-maze-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/505.%20The%20Maze%20II.java) |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/695.%20Max%20Area%20of%20Island.java) |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/738.%20Monotone%20Increasing%20Digits.java) |
@@ -32,6 +33,7 @@ Array
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/118.%20Pascal's%20Triangle.java) |
+| [505. The Maze II](https://leetcode.com/problems/the-maze-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/505.%20The%20Maze%20II.java) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/695.%20Max%20Area%20of%20Island.java) |
 
 Tree 
