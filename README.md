@@ -18,6 +18,7 @@ Questions by No.
 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/337.%20House%20Robber%20III.java) |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/342.%20Power%20of%20Four.java) |
 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/352.%20Data%20Stream%20as%20Disjoint%20Intervals.java) |
+| [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/371.%20Sum%20of%20Two%20Integers.java) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/416.%20Partition%20Equal%20Subset%20Sum.java) |
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/461.%20Hamming%20Distance.java) |
@@ -64,6 +65,7 @@ Bit Manipulation
 | ------------ | ---------- | ---- |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/190.%20Reverse%20Bits.java) |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/342.%20Power%20of%20Four.java) |
+| [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/371.%20Sum%20of%20Two%20Integers.java) |
 | [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/461.%20Hamming%20Distance.java) |
 | [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/477.%20Total%20Hamming%20Distance.java) |
 
