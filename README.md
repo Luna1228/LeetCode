@@ -28,6 +28,7 @@ Questions by No.
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/695.%20Max%20Area%20of%20Island.java) |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/738.%20Monotone%20Increasing%20Digits.java) |
+| [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/748.%20Shortest%20Completing%20Word.java) |
 
 Array
 ====
@@ -83,6 +84,7 @@ Hashing
 | ------------ | ---------- | ---- |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
+| [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/748.%20Shortest%20Completing%20Word.java) |
 
 Sort
 ====
