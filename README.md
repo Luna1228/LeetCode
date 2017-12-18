@@ -13,6 +13,7 @@ Questions by No.
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/129.%20Sum%20Root%20to%20Leaf%20Numbers.java) |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/190.%20Reverse%20Bits.java) |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/219.%20Contains%20Duplicate%20II.java) |
+| [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/220.%20Contains%20Duplicate%20III.java) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/226.%20Invert%20Binary%20Tree.java) |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/241.%20Different%20Ways%20to%20Add%20Parentheses.java) |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/296.%20Best%20Meeting%20Point.java) |
@@ -63,6 +64,7 @@ Binary Search Tree
 ====
 |    Question  | Difficulty | Code |
 | ------------ | ---------- | ---- |
+| [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/220.%20Contains%20Duplicate%20III.java) |
 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/352.%20Data%20Stream%20as%20Disjoint%20Intervals.java) |
 | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java) |
 
