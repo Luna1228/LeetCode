@@ -12,6 +12,7 @@ Questions by No.
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/118.%20Pascal's%20Triangle.java) |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/129.%20Sum%20Root%20to%20Leaf%20Numbers.java) |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/190.%20Reverse%20Bits.java) |
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/219.%20Contains%20Duplicate%20II.java) |
 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/226.%20Invert%20Binary%20Tree.java) |
 | [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/241.%20Different%20Ways%20to%20Add%20Parentheses.java) |
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/296.%20Best%20Meeting%20Point.java) |
@@ -88,6 +89,7 @@ Hashing
 ====
 |    Question  | Difficulty | Code |
 | ------------ | ---------- | ---- |
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/219.%20Contains%20Duplicate%20II.java) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/748.%20Shortest%20Completing%20Word.java) |
