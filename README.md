@@ -5,6 +5,7 @@ Questions by No.
 ====
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/1.%20Two%20Sum.java) |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/47.%20Permutations%20II.java) |
 | [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.java) |
@@ -91,6 +92,7 @@ Hashing
 ====
 |    Question  | Difficulty | Code |
 | ------------ | ---------- | ---- |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/1.%20Two%20Sum.java) |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/219.%20Contains%20Duplicate%20II.java) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
