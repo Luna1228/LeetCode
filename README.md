@@ -31,6 +31,7 @@ Questions by No.
 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/505.%20The%20Maze%20II.java) |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/654.%20Maximum%20Binary%20Tree.java) |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/680.%20Valid%20Palindrome%20II.java) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/695.%20Max%20Area%20of%20Island.java) |
 | [698. Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.java) |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/738.%20Monotone%20Increasing%20Digits.java) |
@@ -43,6 +44,13 @@ Array
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/118.%20Pascal's%20Triangle.java) |
 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/505.%20The%20Maze%20II.java) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/695.%20Max%20Area%20of%20Island.java) |
+
+String
+====
+|  Question  | Difficulty | Code |
+| ---------- | ---------- | ---- |
+| [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/680.%20Valid%20Palindrome%20II.java) |
+
 
 Tree 
 ====
