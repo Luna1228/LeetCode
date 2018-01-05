@@ -20,6 +20,7 @@ Questions by No.
 | [296. Best Meeting Point](https://leetcode.com/problems/best-meeting-point/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/296.%20Best%20Meeting%20Point.java) |
 | [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/) |  Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/337.%20House%20Robber%20III.java) |
 | [342. Power of Four](https://leetcode.com/problems/power-of-four/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/342.%20Power%20of%20Four.java) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/347.%20Top%20K%20Frequent%20Elements.java) |
 | [352. Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/352.%20Data%20Stream%20as%20Disjoint%20Intervals.java) |
 | [363. Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.java) |
 | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/371.%20Sum%20of%20Two%20Integers.java) |
@@ -102,6 +103,7 @@ Hashing
 | ------------ | ---------- | ---- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/1.%20Two%20Sum.java) |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/219.%20Contains%20Duplicate%20II.java) |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/347.%20Top%20K%20Frequent%20Elements.java) |
 | [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/387.%20First%20Unique%20Character%20in%20a%20String.java) |
 | [527. Word Abbreviation](https://leetcode.com/problems/word-abbreviation/description/) | Hard | [Code](https://github.com/Luna1228/LeetCode/blob/master/527.%20Word%20Abbreviation.java) |
 | [748. Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/748.%20Shortest%20Completing%20Word.java) |
@@ -118,6 +120,12 @@ Greedy
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
 | [738. Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/738.%20Monotone%20Increasing%20Digits.java) |
+
+Heap
+====
+|  Question  | Difficulty | Code |
+| ---------- | ---------- | ---- |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/347.%20Top%20K%20Frequent%20Elements.java) |
 
 Stack
 ====
