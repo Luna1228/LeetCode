@@ -6,6 +6,7 @@ Questions by No.
 |  Question  | Difficulty | Code |
 | ---------- | ---------- | ---- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/1.%20Two%20Sum.java) |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/2.%20Add%20Two%20Numbers.java) |
 | [47. Permutations II](https://leetcode.com/problems/permutations-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/47.%20Permutations%20II.java) |
 | [77. Combinations](https://leetcode.com/problems/combinations/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/77.%20Combinations.java) |
 | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/96.%20Unique%20Binary%20Search%20Trees.java) |
@@ -45,6 +46,12 @@ Array
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) |  Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/118.%20Pascal's%20Triangle.java) |
 | [505. The Maze II](https://leetcode.com/problems/the-maze-ii/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/505.%20The%20Maze%20II.java) |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/) | Easy | [Code](https://github.com/Luna1228/LeetCode/blob/master/695.%20Max%20Area%20of%20Island.java) |
+
+Linked List
+====
+|  Question  | Difficulty | Code |
+| ---------- | ---------- | ---- |
+| [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | [Code](https://github.com/Luna1228/LeetCode/blob/master/2.%20Add%20Two%20Numbers.java) |
 
 String
 ====
